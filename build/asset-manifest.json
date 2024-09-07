@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/formulario-mudanza/build/static/css/main.a8ab9e4c.css",
-    "main.js": "/formulario-mudanza/build/static/js/main.0fac4c4d.js",
+    "main.js": "/formulario-mudanza/build/static/js/main.715049ac.js",
     "static/js/239.49336cbb.chunk.js": "/formulario-mudanza/build/static/js/239.49336cbb.chunk.js",
     "static/js/213.334a4900.chunk.js": "/formulario-mudanza/build/static/js/213.334a4900.chunk.js",
     "static/js/667.6922fa36.chunk.js": "/formulario-mudanza/build/static/js/667.6922fa36.chunk.js",
@@ -12,7 +12,7 @@
     "static/media/Reglamento Falso.pdf": "/formulario-mudanza/build/static/media/Reglamento Falso.8f5737d72bd1388fe23c.pdf",
     "index.html": "/formulario-mudanza/build/index.html",
     "main.a8ab9e4c.css.map": "/formulario-mudanza/build/static/css/main.a8ab9e4c.css.map",
-    "main.0fac4c4d.js.map": "/formulario-mudanza/build/static/js/main.0fac4c4d.js.map",
+    "main.715049ac.js.map": "/formulario-mudanza/build/static/js/main.715049ac.js.map",
     "239.49336cbb.chunk.js.map": "/formulario-mudanza/build/static/js/239.49336cbb.chunk.js.map",
     "213.334a4900.chunk.js.map": "/formulario-mudanza/build/static/js/213.334a4900.chunk.js.map",
     "667.6922fa36.chunk.js.map": "/formulario-mudanza/build/static/js/667.6922fa36.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.a8ab9e4c.css",
-    "static/js/main.0fac4c4d.js"
+    "static/js/main.715049ac.js"
   ]
 }

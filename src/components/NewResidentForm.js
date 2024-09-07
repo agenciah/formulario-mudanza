@@ -48,7 +48,7 @@ const NewResidentForm = () => {
     doc.text(`${houseNumber}`, 150, 222);
     doc.text(`${form.getFieldValue('phone')}`, 130, 390);
     doc.text(`${form.getFieldValue('email')}`, 130, 407);
-    doc.text(`${form.getFieldValue('ownerOrTenant')}`, 435, 205);
+    doc.text(`${form.getFieldValue('ownerOrTenant')}`, 430, 205);
 
     doc.text(`${name}`, 190, 520);
 
