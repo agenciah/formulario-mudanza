@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/check-mudanza/build/static/css/main.a8ab9e4c.css",
-    "main.js": "/check-mudanza/build/static/js/main.584a5b1f.js",
-    "static/js/239.49336cbb.chunk.js": "/check-mudanza/build/static/js/239.49336cbb.chunk.js",
-    "static/js/213.334a4900.chunk.js": "/check-mudanza/build/static/js/213.334a4900.chunk.js",
-    "static/js/667.6922fa36.chunk.js": "/check-mudanza/build/static/js/667.6922fa36.chunk.js",
-    "static/js/453.03b3e847.chunk.js": "/check-mudanza/build/static/js/453.03b3e847.chunk.js",
-    "static/media/Responsiva_nuevos_Residentes.jpg": "/check-mudanza/build/static/media/Responsiva_nuevos_Residentes.5dfa4a71b487268ab3ab.jpg",
-    "static/media/Residentia_Logo_without_name-removebg-preview.png": "/check-mudanza/build/static/media/Residentia_Logo_without_name-removebg-preview.99fb25a6a9bcaf371a2c.png",
-    "static/media/Directorio Falso.pdf": "/check-mudanza/build/static/media/Directorio Falso.282b8ac93117be902d79.pdf",
-    "static/media/Reglamento Falso.pdf": "/check-mudanza/build/static/media/Reglamento Falso.8f5737d72bd1388fe23c.pdf",
-    "index.html": "/check-mudanza/build/index.html",
-    "main.a8ab9e4c.css.map": "/check-mudanza/build/static/css/main.a8ab9e4c.css.map",
-    "main.584a5b1f.js.map": "/check-mudanza/build/static/js/main.584a5b1f.js.map",
-    "239.49336cbb.chunk.js.map": "/check-mudanza/build/static/js/239.49336cbb.chunk.js.map",
-    "213.334a4900.chunk.js.map": "/check-mudanza/build/static/js/213.334a4900.chunk.js.map",
-    "667.6922fa36.chunk.js.map": "/check-mudanza/build/static/js/667.6922fa36.chunk.js.map",
-    "453.03b3e847.chunk.js.map": "/check-mudanza/build/static/js/453.03b3e847.chunk.js.map"
+    "main.css": "/formulario-mudanza/build/static/css/main.a8ab9e4c.css",
+    "main.js": "/formulario-mudanza/build/static/js/main.0fac4c4d.js",
+    "static/js/239.49336cbb.chunk.js": "/formulario-mudanza/build/static/js/239.49336cbb.chunk.js",
+    "static/js/213.334a4900.chunk.js": "/formulario-mudanza/build/static/js/213.334a4900.chunk.js",
+    "static/js/667.6922fa36.chunk.js": "/formulario-mudanza/build/static/js/667.6922fa36.chunk.js",
+    "static/js/453.03b3e847.chunk.js": "/formulario-mudanza/build/static/js/453.03b3e847.chunk.js",
+    "static/media/Responsiva_nuevos_Residentes.jpg": "/formulario-mudanza/build/static/media/Responsiva_nuevos_Residentes.5dfa4a71b487268ab3ab.jpg",
+    "static/media/Residentia_Logo_without_name-removebg-preview.png": "/formulario-mudanza/build/static/media/Residentia_Logo_without_name-removebg-preview.99fb25a6a9bcaf371a2c.png",
+    "static/media/Directorio Falso.pdf": "/formulario-mudanza/build/static/media/Directorio Falso.282b8ac93117be902d79.pdf",
+    "static/media/Reglamento Falso.pdf": "/formulario-mudanza/build/static/media/Reglamento Falso.8f5737d72bd1388fe23c.pdf",
+    "index.html": "/formulario-mudanza/build/index.html",
+    "main.a8ab9e4c.css.map": "/formulario-mudanza/build/static/css/main.a8ab9e4c.css.map",
+    "main.0fac4c4d.js.map": "/formulario-mudanza/build/static/js/main.0fac4c4d.js.map",
+    "239.49336cbb.chunk.js.map": "/formulario-mudanza/build/static/js/239.49336cbb.chunk.js.map",
+    "213.334a4900.chunk.js.map": "/formulario-mudanza/build/static/js/213.334a4900.chunk.js.map",
+    "667.6922fa36.chunk.js.map": "/formulario-mudanza/build/static/js/667.6922fa36.chunk.js.map",
+    "453.03b3e847.chunk.js.map": "/formulario-mudanza/build/static/js/453.03b3e847.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8ab9e4c.css",
-    "static/js/main.584a5b1f.js"
+    "static/js/main.0fac4c4d.js"
   ]
 }
