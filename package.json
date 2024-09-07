@@ -1,6 +1,6 @@
 {
   "name": "check-mudanza",
-  "homepage": "https://agenciah.github.io/check-mudanza/build",
+  "homepage": "https://agenciah.github.io/check-mudanza/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
