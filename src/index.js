@@ -1,3 +1,4 @@
+import 'antd/dist/reset.css'; // Estilos de Ant Design
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
